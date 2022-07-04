@@ -1,5 +1,5 @@
 # POO-RPG-DIO
-projeto utilizando conceitos básicos de orientação a objetos.  
+projeto simples utilizando conceitos básicos de orientação a objetos.  
 
 H.E.P.A 
 Herança 
